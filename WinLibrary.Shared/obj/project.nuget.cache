@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AetmPvWzmcyCZZx1ICrpUr4KrQR2flN9yxeVFFg1qufvpP+eqsFJJPLTPk9/A7PjHqlqRIlheHhcAzl7YM4TNA==",
+  "success": true,
+  "projectFilePath": "D:\\tuth.vn\\code\\netcore\\WinApp.Data\\WinLibrary.Shared\\WinLibrary.Shared.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://42.112.22.107:9011/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
