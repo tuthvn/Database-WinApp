@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tuth.vn\\code\\netcore\\WinApp.Data\\WinApp.Data\\WinApp.Data.csproj": {}
+    "C:\\Users\\tuthv\\Desktop\\Tool\\Database-WinApp\\WinApp.Data\\WinApp.Data.csproj": {}
   },
   "projects": {
-    "D:\\tuth.vn\\code\\netcore\\WinApp.Data\\WinApp.Data\\WinApp.Data.csproj": {
+    "C:\\Users\\tuthv\\Desktop\\Tool\\Database-WinApp\\WinApp.Data\\WinApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tuth.vn\\code\\netcore\\WinApp.Data\\WinApp.Data\\WinApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\tuthv\\Desktop\\Tool\\Database-WinApp\\WinApp.Data\\WinApp.Data.csproj",
         "projectName": "WinApp.Data",
-        "projectPath": "D:\\tuth.vn\\code\\netcore\\WinApp.Data\\WinApp.Data\\WinApp.Data.csproj",
-        "packagesPath": "C:\\Users\\tu.tran\\.nuget\\packages\\",
-        "outputPath": "D:\\tuth.vn\\code\\netcore\\WinApp.Data\\WinApp.Data\\obj\\",
+        "projectPath": "C:\\Users\\tuthv\\Desktop\\Tool\\Database-WinApp\\WinApp.Data\\WinApp.Data.csproj",
+        "packagesPath": "C:\\Users\\tuthv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tuthv\\Desktop\\Tool\\Database-WinApp\\WinApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tu.tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tuthv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

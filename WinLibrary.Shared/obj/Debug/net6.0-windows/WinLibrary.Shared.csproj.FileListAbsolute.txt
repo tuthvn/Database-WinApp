@@ -1,0 +1,12 @@
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\bin\Debug\net6.0-windows\WinLibrary.Shared.deps.json
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\bin\Debug\net6.0-windows\WinLibrary.Shared.dll
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\bin\Debug\net6.0-windows\WinLibrary.Shared.pdb
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\WinLibrary.Shared.csproj.AssemblyReference.cache
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\WinLibrary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\WinLibrary.Shared.AssemblyInfoInputs.cache
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\WinLibrary.Shared.AssemblyInfo.cs
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\WinLibrary.Shared.csproj.CoreCompileInputs.cache
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\WinLibrary.Shared.dll
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\refint\WinLibrary.Shared.dll
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\WinLibrary.Shared.pdb
+C:\Users\tuthv\Desktop\Tool\Database-WinApp\WinLibrary.Shared\obj\Debug\net6.0-windows\ref\WinLibrary.Shared.dll
